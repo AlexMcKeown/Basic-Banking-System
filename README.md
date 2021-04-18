@@ -1,2 +1,2 @@
-# Basic-Banking-System
-A implemented using inheritance in Java
+# Basic-Banking-System 
+Banking system implemented using inheritance in Java
